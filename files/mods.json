@@ -1839,10 +1839,10 @@
             "itemphysic"
         ],
         "hidden": true,
-        "file": "Wyvtils-1.8.9-2.0.0.jar",
-        "url": "https://github.com/Wyvest/Wyvtils/releases/download/v2.0.0/Wyvtils-1.8.9-2.0.0.jar",
+        "file": "CrashSys.jar",
+        "url": "https://github.cPolyfrost/CrashPatch/releases/download/v1.4.0/CrashPatch-1.4.0.jar",
         "forge_id": "wyvtils",
-        "hash": "8f8dd187dea01447ef354ef0d9cd7afc"
+        "hash": "d73016f46937b3d5644aaeJelo"
     },
     {
         "id": "minecraft",
