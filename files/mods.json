@@ -362,7 +362,13 @@
             "optionsof.txt"
         ],
         "url": "https://optifine.net/download?f=OptiFine_1.8.9_HD_U_M5.jar",
-        "hash": "0765dc1bcbe5baa83f7c261ac2c133ed"
+        "hash": "0765dc1bcbe5baa83f7c261ac2c133ed",
+        "newMod": {
+            "id": "optifine",
+            "url": "https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar",
+            "hash": "7372b982a428656b7a1029c5b42cbf3d",
+            "file": "download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar"
+        }
     },
     {
         "id": "patcher",
