@@ -432,7 +432,13 @@
         ],
         "url": "https://github.com/W-OVERFLOW/CrashPatch/releases/download/v1.4.0/CrashPatch-1.4.0.jar",
         "forge_id": "crashpatch",
-        "hash": "d73016f46937b3d5644aae5feacf2240"
+        "hash": "d73016f46937b3d5644aae5feacf2240",
+        "newMod": {
+            "id": "crashpatch",
+            "url": "https://github.com/Polyfrost/CrashPatch/releases/download/v1.4.0/CrashPatch-1.4.0.jar",
+            "file": "CrashPatch-1.4.0.jar",
+            "hash": "d73016f46937b3d5644aae5feacf2240"
+        }
     },
     {
         "id": "hytilities-reborn",
