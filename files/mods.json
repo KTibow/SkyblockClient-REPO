@@ -52,7 +52,8 @@
             "simpletogglesprint",
             "hypixel_auto_complete"
         ],
-        "hash": "05cc200b46c6eea4d918300aacd74ea1"
+        "hash": "05cc200b46c6eea4d918300aacd74ea1",
+        "test": true
     },
     {
         "id": "smoothscrollingeverywhere",
