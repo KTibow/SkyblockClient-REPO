@@ -57,7 +57,7 @@
         ],
         "categories": ["5;All PvP", "6;Recommended PvP"],
         "file": "HitColor-1.2.jar",
-        "url": "https://raw.githubusercontent.com/KTibow/SkyblockClient-REPO/main/files/mods/HitColor-1.2.jar",
+        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/HitColor-1.2.jar",
         "forge_id": "hitcolor",
         "hash": "17f5715781ce2941c24dde34477550dc"
     },
